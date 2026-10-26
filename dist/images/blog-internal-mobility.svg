@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="title">
+  <title id="title">Steps rising toward a bright circle</title>
+  <rect width="600" height="400" fill="#d8e8d5"/>
+  <circle cx="488" cy="104" r="82" fill="#f7d98b"/>
+  <path d="M0 337h148v-69h113v-75h111v-78h111" fill="none" stroke="#214b3d" stroke-width="35" stroke-linejoin="round"/>
+  <path d="m469 112 18-18 18 18m-18-18v82" fill="none" stroke="#f47e68" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="93" cy="235" r="24" fill="#9e79cf"/>
+  <circle cx="209" cy="163" r="24" fill="#9e79cf"/>
+  <circle cx="319" cy="88" r="24" fill="#9e79cf"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="title">
+  <title id="title">An upward arrow crossing coloured shapes</title>
+  <rect width="600" height="400" fill="#d9c8ec"/>
+  <circle cx="92" cy="332" r="105" fill="#f7dfb5"/>
+  <circle cx="514" cy="76" r="110" fill="#b8a2df"/>
+  <path d="M74 295C150 276 177 314 247 252c52-46 80-44 133-28 51 16 100-26 147-106" fill="none" stroke="#173e36" stroke-width="18" stroke-linecap="round"/>
+  <path d="m473 125 59-17-7 61" fill="none" stroke="#173e36" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="177" cy="278" r="20" fill="#f78368"/>
+  <circle cx="366" cy="222" r="20" fill="#f78368"/>
+  <path d="M43 80h140M43 109h92" stroke="#fffdf8" stroke-width="9" stroke-linecap="round" opacity=".7"/>
+</svg>

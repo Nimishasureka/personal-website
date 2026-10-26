@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="title">
+  <title id="title">Overlapping human and technology shapes in green and violet</title>
+  <rect width="600" height="400" fill="#d6e8d2"/>
+  <circle cx="224" cy="195" r="126" fill="#f7d88a"/>
+  <circle cx="367" cy="208" r="126" fill="#c7b5e5" fill-opacity=".88"/>
+  <path d="M223 128c-44 0-75 30-75 70 0 27 15 47 40 59v32h69v-32c27-14 41-35 41-61 0-38-32-68-75-68Z" fill="none" stroke="#173e36" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M368 130v-40m-58 51-27-28m112 26 28-28m-99 97h87m-74 41h63" fill="none" stroke="#7155a7" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="366" cy="208" r="87" fill="none" stroke="#7155a7" stroke-width="8" stroke-dasharray="11 16"/>
+  <path d="m516 63 12 28 28 12-28 12-12 28-12-28-28-12 28-12z" fill="#f78368"/>
+</svg>

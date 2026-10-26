@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="title">
+  <title id="title">A balance scale with contrasting circles</title>
+  <rect width="600" height="400" fill="#d2e6e1"/>
+  <circle cx="103" cy="81" r="76" fill="#f5d89c"/>
+  <path d="M300 87v235M227 326h146M137 140h326M168 140l-55 116h110l-55-116Zm264 0-55 116h110l-55-116Z" fill="none" stroke="#214b3d" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="168" cy="205" r="23" fill="#f47e68"/>
+  <circle cx="432" cy="205" r="23" fill="#aa83d0"/>
+  <circle cx="300" cy="75" r="22" fill="#214b3d"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="title">
+  <title id="title">Three candidate cards and a highlighted match</title>
+  <rect width="600" height="400" fill="#f4dfb9"/>
+  <rect x="56" y="95" width="143" height="220" rx="16" fill="#e9a98b"/>
+  <rect x="228" y="56" width="143" height="259" rx="16" fill="#c1ade3"/>
+  <rect x="400" y="95" width="143" height="220" rx="16" fill="#b0d8bd"/>
+  <g fill="none" stroke="#214b3d" stroke-width="8"><circle cx="127" cy="158" r="25"/><path d="M88 230c8-29 69-29 78 0M259 224c8-29 69-29 78 0M432 230c8-29 69-29 78 0"/><circle cx="300" cy="151" r="25"/><circle cx="471" cy="158" r="25"/></g>
+  <path d="m277 273 16 16 32-35" fill="none" stroke="#214b3d" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
