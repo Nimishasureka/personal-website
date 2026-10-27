@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="title desc">
+  <title id="title">Leadership learning in practice</title>
+  <desc id="desc">Three connected panels show learning, reflection, and a practical plan inside a friendly website interface.</desc>
+  <rect width="600" height="400" fill="#d9e7d7"/>
+  <circle cx="75" cy="330" r="129" fill="#f4d6a0"/>
+  <circle cx="527" cy="55" r="104" fill="#cab7e7"/>
+  <path d="m82 57 8 20 20 8-20 8-8 20-8-20-20-8 20-8z" fill="#f27d6b"/>
+  <rect x="87" y="73" width="426" height="255" rx="19" fill="#fffdf8" stroke="#214b3d" stroke-width="7"/>
+  <path d="M90 119h420" stroke="#214b3d" stroke-width="7"/>
+  <circle cx="111" cy="96" r="6" fill="#f27d6b"/><circle cx="131" cy="96" r="6" fill="#ebc76f"/><circle cx="151" cy="96" r="6" fill="#83b990"/>
+  <rect x="112" y="144" width="106" height="139" rx="14" fill="#e6eee1"/>
+  <rect x="247" y="144" width="106" height="139" rx="14" fill="#eadff4"/>
+  <rect x="382" y="144" width="106" height="139" rx="14" fill="#fbe4ce"/>
+  <g fill="none" stroke="#214b3d" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M142 194v-22h46v52h-46v-21m0-9c16-10 30-10 46 0"/>
+    <circle cx="300" cy="188" r="23"/><path d="M284 226c10 9 22 9 32 0"/>
+    <path d="m410 180 11 11 17-23m-28 52 11 11 17-23"/>
+  </g>
+  <path d="M222 209h20m115 0h20" stroke="#f27d6b" stroke-width="8" stroke-linecap="round"/>
+  <path d="m233 200 10 9-10 9m135-18 10 9-10 9" fill="none" stroke="#f27d6b" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#214b3d" font-family="Arial,sans-serif" font-size="14" font-weight="700" text-anchor="middle" letter-spacing="1"><text x="165" y="263">LEARN</text><text x="300" y="263">REFLECT</text><text x="435" y="263">PLAN</text></g>
+  <path d="m528 275 8 20 20 8-20 8-8 20-8-20-20-8 20-8z" fill="#f27d6b"/>
+</svg>

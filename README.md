@@ -9,6 +9,7 @@ A static, responsive personal website. The site content lives in `dist/index.htm
 - The learning path follows Nimisha's account of CS50, Python lessons and bootcamps, Kaggle practice, and Vercel v0.
 - Mindfulness, fitness, board games, and acrylic painting were supplied by Nimisha.
 - Four posts from Nimisha's earlier [Learnings](https://nimishasureka.github.io/learnings/) blog have been migrated as full on-site articles. Their original Markdown is kept in `content/learnings/`; run `./migrate-learnings.ps1` to regenerate the HTML pages.
+- “Making leadership learning stick” is an original article hosted at `dist/blog/making-leadership-learning-stick.html`; its card is featured first on the homepage and blog page.
 - The blog also links to Nimisha's existing [Connect Virtually](https://connectvirtually.substack.com/) Substack archive. Future articles can live on this website too.
 
 ## Adding a project

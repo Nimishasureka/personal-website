@@ -1,6 +1,16 @@
 // Newest first. Add each future on-site article here after creating its page.
 window.NIMISHA_BLOG_POSTS = [
   {
+    title: 'Making leadership learning stick',
+    featured: true,
+    summary: 'How I used AI to build a tool that helps managers revisit leadership lessons and turn reflection into a practical plan.',
+    category: 'Leadership + AI',
+    dateDisplay: 'October 27, 2026',
+    cover: 'images/blog-leadership-learning.svg',
+    coverAlt: 'Illustration of a manager moving from learning through reflection to a practical plan',
+    url: 'blog/making-leadership-learning-stick.html'
+  },
+  {
     title: 'People Analytics - Internal Mobility Week 2 continued',
     summary: 'What predicts success after a promotion? Exploring internal mobility and the qualities that make a strong manager.',
     category: 'People Analytics',

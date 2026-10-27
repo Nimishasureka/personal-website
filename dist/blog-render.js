@@ -3,7 +3,7 @@ document.querySelectorAll('[data-blog-grid]').forEach(grid => {
   const limit = Number(grid.dataset.limit) || posts.length;
   posts.slice(0, limit).forEach(post => {
     const card = document.createElement('article');
-    card.className = 'blog-card';
+    card.className = post.featured ? 'blog-card blog-card-featured' : 'blog-card';
 
     const cover = document.createElement('img');
     cover.className = 'blog-card-cover';
@@ -11,6 +11,12 @@ document.querySelectorAll('[data-blog-grid]').forEach(grid => {
     cover.alt = post.coverAlt || '';
     cover.loading = 'lazy';
     card.append(cover);
+    if (post.featured) {
+      const featuredLabel = document.createElement('span');
+      featuredLabel.className = 'blog-card-featured-label';
+      featuredLabel.textContent = 'Featured';
+      card.append(featuredLabel);
+    }
 
     const content = document.createElement('div');
     content.className = 'blog-card-content';
