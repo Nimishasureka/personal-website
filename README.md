@@ -4,7 +4,7 @@ A static, responsive personal website. The site content lives in `dist/index.htm
 
 ## Content status
 
-- Five project cards now link to work Nimisha supplied directly: Notion onboarding guides and their parent handbook, the Formula 1 AI steward notebook, two Kaggle leaderboards, and Skinmate. They appear in Nimisha's requested order, with onboarding first and Skinmate last.
+- Six project cards feature Nimisha's work: the leadership learning website first, followed by Notion onboarding guides, the Formula 1 AI steward notebook, two Kaggle leaderboards, and Skinmate last. The new project's card links to Nimisha's on-site article; the organization's website URL has not been supplied.
 - The 5th-of-700 and top-2% results are Nimisha's descriptions. The Kaggle leaderboard links are included so the results can be inspected.
 - The learning path follows Nimisha's account of CS50, Python lessons and bootcamps, Kaggle practice, and Vercel v0.
 - Mindfulness, fitness, board games, and acrylic painting were supplied by Nimisha.
